@@ -1,0 +1,323 @@
+Starting at 1
+first path length 58500000.0, dir =-1, SOPS 47000000, EOPS 81000000.0
+Start LOPS 34000000.0
+2
+path rejected
+3
+path rejected
+4
+path rejected
+5
+path rejected
+6
+path rejected
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 2
+first path length 140100000.0, dir =1, SOPS 0, EOPS 20100000
+Start LOPS 20100000
+3
+path rejected
+4
+path rejected
+5
+path rejected
+6
+path rejected
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 3
+first path length 53100000.0, dir =-1, SOPS 175000000, EOPS 206800000.0
+Start LOPS 31800000.0
+4
+path rejected
+5
+path rejected
+6
+path rejected
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 4
+first path length 271300000.0, dir =-1, SOPS 25700000, EOPS 276900000.0
+Start LOPS 251200000.0
+5
+path rejected
+6
+path rejected
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 5
+first path length 123200000.0, dir =-1, SOPS 39700000, EOPS 129900000.0
+Start LOPS 90200000.0
+6
+path rejected
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 6
+first path length 129900000.0, dir =-1, SOPS 64300000, EOPS 161900000.0
+Start LOPS 97600000.0
+7
+path rejected
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 7
+first path length 155200000.0, dir =-1, SOPS 51000000, EOPS 170900000.0
+Start LOPS 119900000.0
+8
+path rejected
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 8
+first path length 138900000.0, dir =-1, SOPS 39800000, EOPS 132400000.0
+Start LOPS 92600000.0
+9
+path rejected
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 9
+first path length 116700000.0, dir =1, SOPS 0, EOPS 40900000
+Start LOPS 40900000
+10
+path rejected
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 10
+first path length 65600000.0, dir =-1, SOPS 47500000, EOPS 76000000.0
+Start LOPS 28500000.0
+11
+path rejected
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 11
+first path length 76000000.0, dir =-1, SOPS 54700000, EOPS 84400000.0
+Start LOPS 29700000.0
+12
+path rejected
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 12
+first path length 84400000.0, dir =-1, SOPS 33500000, EOPS 64700000.0
+Start LOPS 31200000.0
+13
+path rejected
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 13
+first path length 56300000.0, dir =-1, SOPS 31000000, EOPS 41100000.0
+Start LOPS 10100000.0
+14
+path rejected
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 14
+first path length 60800000.0, dir =-1, SOPS 32000000, EOPS 71000000.0
+Start LOPS 39000000.0
+15
+path rejected
+16
+path rejected
+17
+path rejected
+Starting at 15
+first path length 71000000.0, dir =-1, SOPS 120100000, EOPS 163800000.0
+Start LOPS 43700000.0
+16
+path rejected
+17
+path rejected
+Starting at 16
+first path length 153600000.0, dir =-1, SOPS 38200000, EOPS 151000000.0
+Start LOPS 112800000.0
+17
+path rejected
+Starting at 17
+first path length 58200000.0, dir =1, SOPS 0, EOPS 38000000
+Start LOPS 38000000

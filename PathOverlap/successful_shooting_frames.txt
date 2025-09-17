@@ -1,0 +1,12 @@
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_0
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_1
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_2
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_3
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_4
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_5
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_6
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_7
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_8
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_9
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_10
+../ClathrateTPS/data_mu175_chain1_batch_4/, run_11

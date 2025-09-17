@@ -1,0 +1,87 @@
+t=	874010.00000 step= 437005000
+Nneigh[4]= 2
+My_neigh[4][1]= 48
+My_neigh[4][2]= 64
+
+Nneigh[8]= 2
+My_neigh[8][1]= 12
+My_neigh[8][2]= 84
+
+Nneigh[12]= 3
+My_neigh[12][1]= 8
+My_neigh[12][2]= 16
+My_neigh[12][3]= 60
+
+Nneigh[16]= 2
+My_neigh[16][1]= 12
+My_neigh[16][2]= 60
+
+Nneigh[20]= 1
+My_neigh[20][1]= 40
+
+Nneigh[24]= 0
+
+Nneigh[28]= 1
+My_neigh[28][1]= 32
+
+Nneigh[32]= 3
+My_neigh[32][1]= 28
+My_neigh[32][2]= 68
+My_neigh[32][3]= 84
+
+Nneigh[36]= 3
+My_neigh[36][1]= 40
+My_neigh[36][2]= 44
+My_neigh[36][3]= 52
+
+Nneigh[40]= 3
+My_neigh[40][1]= 20
+My_neigh[40][2]= 36
+My_neigh[40][3]= 64
+
+Nneigh[44]= 3
+My_neigh[44][1]= 36
+My_neigh[44][2]= 68
+My_neigh[44][3]= 80
+
+Nneigh[48]= 1
+My_neigh[48][1]= 4
+
+Nneigh[52]= 2
+My_neigh[52][1]= 36
+My_neigh[52][2]= 56
+
+Nneigh[56]= 1
+My_neigh[56][1]= 52
+
+Nneigh[60]= 2
+My_neigh[60][1]= 12
+My_neigh[60][2]= 16
+
+Nneigh[64]= 2
+My_neigh[64][1]= 4
+My_neigh[64][2]= 40
+
+Nneigh[68]= 4
+My_neigh[68][1]= 32
+My_neigh[68][2]= 44
+My_neigh[68][3]= 76
+My_neigh[68][4]= 80
+
+Nneigh[72]= 1
+My_neigh[72][1]= 76
+
+Nneigh[76]= 2
+My_neigh[76][1]= 68
+My_neigh[76][2]= 72
+
+Nneigh[80]= 3
+My_neigh[80][1]= 44
+My_neigh[80][2]= 68
+My_neigh[80][3]= 84
+
+Nneigh[84]= 3
+My_neigh[84][1]= 8
+My_neigh[84][2]= 32
+My_neigh[84][3]= 80
+
