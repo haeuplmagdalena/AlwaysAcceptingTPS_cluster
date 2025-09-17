@@ -1,0 +1,32 @@
+## Starting 12 (parallel) TPS simulations
+
+1. Go to either ‘AlwaysAcceptingTPS’ or ‘OneWayShootingTPS’ depending on the desired method
+2. If you do not have an Initial Path to start from yet: 
+    1. Open scripts/[CopyInitialTrajectories.sh](http://copyinitialtrajectories.sh/) and change the variables ‘DATA_DIR’ and ‘DEST_DIR’
+    2. Run the scripts (it’s usually quick enough to not require slurm submission)
+3. Open [ClathrateTPS.py](http://ClathrateTPS.py) and change the ‘initial_traj_folder’ variable to the folder the Initial Trajs were saved to
+4. Change variable ‘base_path’ to the destination folder for the data (now usually moved inside ‘TPS_trajectories’) (make sure to not overwrite existing datafolders!)
+5. Run ‘slurm_scripts/start_jobs.sh’, this calls ‘slurm_scripts/submit_4_jobs.slurm’ 3 times 
+
+## Count Cages after TPS simulations have finished
+
+1. First translate .dcd to .gro: Open ‘scripts/[DCD2GRO.py](http://dcd2gro.py/)’ and change ‘folder’ (TPS data output folder) and ‘savefolder’ (where to save the cagedata to) variables (now usually moved inside CageData) 
+2. Run by submitting ‘slurm_scripts/submit_dcd2gro.slurm’ 
+3. Open ‘scripts/[GradeAnalysis.py](http://gradeanalysis.py/)’ and change the ‘savefolder’ (this is the same as the savefolder above, the .gro traj files and the cagecount files will lie inside the same folder)
+4. Start the analysis by submitting ‘slurm_scripts/submit_grade_analysis.slurm’
+
+## Do a Fractional Path Overlap analysis
+
+1. Open ‘PathOverlap/CalculatePathCorrelationsperTrial.ipynb’ and set the algorithm using ‘AA = True/False’
+2. Change the ‘datafolders’ variables 
+3. The results of this are saved to ‘data’ and the plotting is done inside ‘PlotPathCorrelations.ipynb’ and figures are saved to the ‘figures’ folder
+
+## Do a Channel Switching Analysis
+
+This is mostly set up to plot the analysis as a comparison, so we first analyze the output of both methods and then load the data and plot as a comparison:
+
+1. Run analysis on AAA in ‘AlwaysAcceptingTPS/AATransitionAnalysis.ipynb’ 
+2. Run analysis on 1wS in ‘OneWayShootingTPS/1wSTransitionAnalysis.ipynb’ 
+3. The data is being saved into ‘ChannelTransitions’ and the plotting and some analysis is done inside ‘ChannelTransitions/ChannelTransitions.ipynb’
+
+Plotting the histograms is done very similarly
